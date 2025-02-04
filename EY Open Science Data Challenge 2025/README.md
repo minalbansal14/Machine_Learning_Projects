@@ -1,4 +1,4 @@
-## Urbal Heat Islands Challenge 
+## Urban Heat Islands Challenge 
 
 ### About the Challenge:
 
