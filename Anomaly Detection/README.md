@@ -7,7 +7,7 @@ such as inventory management and targeted marketing.
 
 ### Objectives and Goals
 The primary objectives of the project include:
-  -Analyzing customer purchasing behaviors across six product categories.
+  - Analyzing customer purchasing behaviors across six product categories.
   -Detecting anomalies in the dataset to ensure data quality and reliability.
   -Identifying key patterns and dependencies among features for actionable insights.
   -Applying statistical and machine learning techniques for robust anomaly detection.
