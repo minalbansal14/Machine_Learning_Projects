@@ -1,6 +1,6 @@
 ## Urban Heat Islands Challenge 
 
-![](2025 EY Open Science AI & Data Challenge social media image_version 1.jpg)
+![](resources/image.jpg)
 
 ### About the Challenge:
 
