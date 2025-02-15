@@ -1,5 +1,7 @@
 ## Urban Heat Islands Challenge 
 
+![](2025 EY Open Science AI & Data Challenge social media image_version 1.jpg)
+
 ### About the Challenge:
 
 Aligned with the United Nations Sustainable Development Goals and the EY Ripples program, the EY Open Science AI & Data Challenge is an annual competition that gives university students, early-career professionals and EY people the opportunity to develop data models using artificial intelligence (AI) and computing technology to create solutions that address critical climate issues, building a more sustainable future for society and the planet.
